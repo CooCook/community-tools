@@ -1,6 +1,6 @@
 # CooCook Facebook Tools
 
-Vous trouverez ici les différents outils pour créer vos propres évenement CooCook.
+You'll fin here some tool to make your own CooCook events.
 
 ## Cover facebook
 
